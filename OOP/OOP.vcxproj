@@ -19,10 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Class case-study.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Functions.h" />
+    <ClCompile Include="q1.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

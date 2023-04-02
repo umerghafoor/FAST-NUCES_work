@@ -9,3 +9,5 @@
 *.tlog
 *.pdb
 *.idb
+x64
+.vs
