@@ -19,7 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="taha awan.cpp" />
+    <ClCompile Include="Q77\Integer.cpp" />
+    <ClCompile Include="Q77\q7.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Q77\Integer.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

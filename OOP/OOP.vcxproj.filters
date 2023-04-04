@@ -15,8 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="taha awan.cpp">
+    <ClCompile Include="Q77\Integer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Q77\q7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Q77\Integer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

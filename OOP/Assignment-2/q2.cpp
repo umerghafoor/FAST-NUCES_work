@@ -87,7 +87,7 @@ int main()
                     emp->yearlySalary[j].year = 2023 - j;
                 }
 
-                cout << "Enter city : ";
+                cout << "Enter city     : ";
                 cin >> emp->addr.city;
 
                 cout << "Enter postcode : ";
