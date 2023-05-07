@@ -18,17 +18,10 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Q77\Integer.cpp" />
-    <ClCompile Include="Q77\q7.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Q77\Integer.h" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{470406f5-7d25-40a7-9d2d-79cf619526d7}</ProjectGuid>
+    <ProjectGuid>{91dec8a4-8b77-48b5-86f3-f3f80f4f1ad6}</ProjectGuid>
     <RootNamespace>OOP</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -133,6 +126,13 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="Q1\q1.cpp" />
+    <ClCompile Include="Q1\String.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Q1\String.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

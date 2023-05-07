@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Q77\Integer.cpp">
+    <ClCompile Include="Q1\q1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Q77\q7.cpp">
+    <ClCompile Include="Q1\String.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Q77\Integer.h">
+    <ClInclude Include="Q1\String.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
