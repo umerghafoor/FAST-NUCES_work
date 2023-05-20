@@ -15,16 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Q1\q1.cpp">
+    <ClCompile Include="Lab-15-2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Q1\String.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Q1\String.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
