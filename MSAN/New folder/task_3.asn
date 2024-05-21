@@ -1,0 +1,42 @@
+.386
+.model flat,stdcall
+.stack 4049
+ExitProcess proto,dwExitProcess:dword
+
+.data
+number db 13d
+
+.code
+
+main PROC
+	mov eax, 0
+	mov al, [number]
+	mov cl,2
+	div cl
+	mov dh, al
+	
+	mov ecx, 0
+	mov cl, [number]
+	mov dl, 2
+
+	L1:
+
+		mov eax, 0
+		cmp dl,dh
+		JA skip
+		mov al,[number]
+		div dl
+		cmp ah, 0
+		JE found
+		inc dl
+
+		loop L1
+	
+jmp skip
+	found:
+		mov dl, [number]
+skip:
+
+	INVOKE exitProcess,0
+main ENDP
+END main

@@ -1,0 +1,38 @@
+.386
+.model flat,stdcall
+.stack 4049
+ExitProcess proto,dwExitProcess:dword
+
+.data
+arr db 10, 45, 1, 3, 5, 2, 5, 9, 6, 1
+arr2 db 10 dup(?)
+.code
+
+main PROC
+	mov ecx, 10
+	mov eax, 0
+	mov dl, 2
+	mov esi, 0
+	mov ebx, 0
+	L1:
+		mov al, [arr + esi]
+		div dl
+
+		cmp ah, 1
+		JNE addtoArr
+
+		L2:
+		inc esi
+		loop L1
+	
+jmp skip
+	addtoArr:
+		mov al, [arr + esi]
+		mov [arr2 + ebx], al
+		inc ebx
+		jmp L2
+	skip:
+
+	INVOKE exitProcess,0
+main ENDP
+END main

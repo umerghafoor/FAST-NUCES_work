@@ -1,0 +1,23 @@
+;task 11
+
+
+.386
+.model flat,stdcall
+.stack 4096
+ExitProcess proto,dwExitCode:dword
+
+.data
+
+.code
+
+main PROC
+	mov bx,150
+	inc bx
+	inc bx
+	inc bx
+	inc bx
+	inc bx
+
+	INVOKE exitProcess,0
+main ENDP
+END main

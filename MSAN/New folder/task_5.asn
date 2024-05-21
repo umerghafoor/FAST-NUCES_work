@@ -1,0 +1,40 @@
+.386
+.model flat, stdcall
+.stack 4096
+
+ExitProcess proto, dwExitCode: dword
+
+.data
+    arr db 4, 5, 4, 8, 9, 3, 2, 6, 7, 9
+    arrSize db 10
+    smallest db ?
+
+.code
+main PROC
+    mov esi, 0    
+    mov eax,0
+    mov ecx,0
+    mov cl, [arrSize]     
+    mov al, [arr]         
+    mov [smallest], al 
+l1:
+    cmp esi, ecx        
+    je skip                  
+    
+    mov al, [arr + esi] 
+    cmp al, [smallest] 
+    jl update_smallest
+    inc esi                  
+    jmp l1 
+
+update_smallest:
+    mov [smallest], al
+    inc esi
+    jmp l1
+
+skip:
+    invoke ExitProcess, 0
+
+main ENDP
+
+END main

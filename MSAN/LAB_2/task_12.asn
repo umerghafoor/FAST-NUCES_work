@@ -1,0 +1,70 @@
+;task 12
+
+.386
+.model flat,stdcall
+.stack 4096
+
+ExitProcess proto,dwExitCode:dword
+
+.data
+
+var DB 2
+
+.code
+
+main PROC
+
+	mov ax,0
+	mov al,var
+	mov bl,1
+	mul bl
+
+	mov ax,0
+	mov al,var
+	mov bl,2
+	mul bl
+
+	mov ax,0
+	mov al,var
+	mov bl,3
+	mul bl
+
+	mov ax,0
+	mov al,var
+	mov bl,4
+	mul bl
+
+	mov ax,0
+	mov al,var
+	mov bl,5
+	mul bl
+
+	mov ax,0
+	mov al,var
+	mov bl,6
+	mul bl
+
+	mov ax,0
+	mov al,var
+	mov bl,7
+	mul bl
+
+	mov ax,0
+	mov al,var
+	mov bl,8
+	mul bl
+
+	mov ax,0
+	mov al,var
+	mov bl,9
+	mul bl
+
+	mov ax,0
+	mov al,var
+	mov bl,10
+	mul bl
+
+
+	INVOKE exitProcess,0
+main ENDP
+END main

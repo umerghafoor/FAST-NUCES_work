@@ -1,0 +1,20 @@
+;task 7
+
+
+.386
+.model flat,stdcall
+.stack 4096
+ExitProcess proto,dwExitCode:dword
+
+.data
+
+.code
+
+main PROC
+	mov bx,10101b
+	mov cx,51o	;store 51 octal in cx
+	sub cx,bx	;cx=cx-bx
+
+	INVOKE exitProcess,0
+main ENDP
+END main

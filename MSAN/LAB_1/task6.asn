@@ -1,0 +1,21 @@
+;task 6
+
+
+
+.386
+.model flat,stdcall
+.stack 4096
+ExitProcess proto,dwExitCode:dword
+
+.data
+
+.code
+
+main PROC
+	mov ax,15h	;store 15 hex in cx
+	mov dx,10h	;store 10 hex in cx
+	add ax,dx	;ax=ax+dx
+
+	INVOKE exitProcess,0
+main ENDP
+END main

@@ -1,0 +1,21 @@
+;task 3
+
+.386
+.model flat,stdcall
+.stack 4096
+
+ExitProcess proto,dwExitCode:dword
+
+.data
+
+.code
+
+main PROC
+	mov ax,32o
+	mov bl,5o
+	mul bl
+	;ax=130
+
+	INVOKE exitProcess,0
+main ENDP
+END main
