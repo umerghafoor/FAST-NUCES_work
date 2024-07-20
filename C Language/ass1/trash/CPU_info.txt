@@ -1,0 +1,5 @@
+Total Number of Processors: 8
+Total Number of Physical Cores: 8
+Is Hyperthreading Enabled: Yes
+Total Number of Cores with Hyperthreading: 8
+Processor Model: Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz

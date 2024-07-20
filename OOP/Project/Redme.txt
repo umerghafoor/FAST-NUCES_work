@@ -1,3 +1,0 @@
-Beta 1 is the pre-build program without any formatting.
-To use this code rename the code extension with .cpp 
-i.e. Beta_1.cppbeta --> Beta_1.cpp

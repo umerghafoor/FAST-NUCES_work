@@ -1,0 +1,500 @@
+1,0001,Don Quixote,Miguel de Cervantes
+0,0002,Alice's Adventures in Wonderland,Lewis Carroll
+0,0003,The Adventures of Huckleberry Finn,Mark Twain
+1,0004,The Adventures of Tom Sawyer,Mark Twain
+1,0005,Treasure Island,Robert Louis Stevenson
+0,0006,Pride and Prejudice,Jane Austen
+1,0007,Wuthering Heights,Emily Brontë
+1,0008,Jane Eyre,Charlotte Brontë
+0,0009,Moby Dick,Herman Melville
+0,0010,The Scarlet Letter,Nathaniel Hawthorne
+0,0011,Gulliver's Travels,Jonathan Swift
+1,0012,The Pilgrim's Progress,John Bunyan
+1,0013,A Christmas Carol,Charles Dickens
+0,0014,David Copperfield,Charles Dickens
+0,0015,A Tale of Two Cities,Charles Dickens
+0,0016,Little Women,Louisa May Alcott
+1,0017,Great Expectations,Charles Dickens
+1,0018,"The Hobbit, or, There and Back Again",J.R.R. Tolkien
+1,0019,"Frankenstein, or, the Modern Prometheus",Mary Shelley
+1,0020,Oliver Twist,Charles Dickens
+1,0021,Uncle Tom's Cabin,Harriet Beecher Stowe
+1,0022,Crime and Punishment,Fyodor Dostoyevsky
+1,0023,Madame Bovary: Patterns of Provincial life,Gustave Flaubert
+1,0024,The Return of the King,J.R.R. Tolkien
+1,0025,Dracula,Bram Stoker
+0,0026,The Three Musketeers,Alexandre Dumas
+1,0027,Brave New World,Aldous Huxley
+1,0028,War and Peace,Leo Tolstoy
+0,0029,To Kill a Mockingbird,Harper Lee
+1,0030,The Wizard of Oz,L. Frank Baum
+1,0031,Les Misérables,Victor Hugo
+1,0032,The Secret Garden,Frances Hodgson Burnett
+1,0033,Animal Farm,George Orwell
+0,0034,The Great Gatsby,F. Scott Fitzgerald
+0,0035,The Little Prince,Antoine de Saint-Exupéry
+0,0036,The Call of the Wild,Jack London
+1,0037,"20,000 Leagues Under the Sea",Jules Verne
+1,0038,Anna Karenina,Leo Tolstoy
+1,0039,The Wind in the Willows,Kenneth Grahame
+1,0040,The Picture of Dorian Gray,Oscar Wilde
+1,0041,The Grapes of Wrath,John Steinbeck
+1,0042,Sense and Sensibility,Jane Austen
+1,0043,The Last of the Mohicans,James Fenimore Cooper
+1,0044,Tess of the d'Urbervilles,Thomas Hardy
+1,0045,Harry Potter and the Sorcerer's Stone,J.K. Rowling
+0,0046,Heidi,Johanna Spyri
+1,0047,Ulysses,James Joyce
+1,0048,The Complete Sherlock Holmes,Arthur Conan Doyle
+0,0049,The Count of Monte Cristo,Alexandre Dumas
+1,0050,The Old Man and the Sea,Ernest Hemingway
+1,0051,"The Lion, the Witch, and the Wardrobe",C.S. Lewis
+1,0052,The Hunchback of Notre Dame,Victor Hugo
+1,0053,Pinocchio,Carlo Collodi
+0,0054,One Hundred Years of Solitude,Gabriel García Márquez
+0,0055,Ivanhoe,Walter Scott
+0,0056,The Red Badge of Courage,Stephen Crane
+1,0057,Anne of Green Gables,L.M. Montgomery
+1,0058,Black Beauty,Anna Sewell
+1,0059,Peter Pan,J.M. Barrie
+1,0060,A Farewell to Arms,Ernest Hemingway
+1,0061,The House of the Seven Gables,Nathaniel Hawthorne
+1,0062,Lord of the Flies,William Golding
+1,0063,The Prince and the Pauper,Mark Twain
+1,0064,A Portrait of the Artist as a Young Man,James Joyce
+1,0065,Lord Jim,Joseph Conrad
+0,0066,Harry Potter and the Chamber of Secrets,J.K. Rowling
+1,0067,The Red & the Black,Stendhal
+1,0068,The Stranger,Albert Camus
+0,0069,The Trial,Franz Kafka
+1,0070,Lady Chatterley's Lover,D.H. Lawrence
+1,0071,Kidnapped: The Adventures of David Balfour,Robert Louis Stevenson
+1,0072,The Catcher in the Rye,J.D. Salinger
+1,0073,Fahrenheit 451,Ray Bradbury
+0,0074,A Journey to the Center of the Earth,Jules Verne
+0,0075,Vanity Fair,William Makepeace Thackeray
+0,0076,All Quiet on the Western Front,Erich Maria Remarque
+1,0077,Gone with the Wind,Margaret Mitchell
+1,0078,My Ántonia,Willa Cather
+1,0079,Of Mice and Men,John Steinbeck
+1,0080,The Vicar of Wakefield,Oliver Goldsmith
+1,0081,A Connecticut Yankee in King Arthur's Court,Mark Twain
+1,0082,White Fang,Jack London
+1,0083,Fathers and Sons,Ivan Sergeevich Turgenev
+1,0084,Doctor Zhivago,Boris Leonidovich Pasternak
+1,0085,The Decameron,Giovanni Boccaccio
+0,0086,Nineteen Eighty-Four,George Orwell
+1,0087,The Jungle,Upton Sinclair
+1,0088,The Da Vinci Code,Dan Brown
+0,0089,Persuasion,Jane Austen
+1,0090,Mansfield Park,Jane Austen
+1,0091,Candide,Voltaire
+1,0092,For Whom the Bell Tolls,Ernest Hemingway
+1,0093,Far from the Madding Crowd,Thomas Hardy
+0,0094,The Fellowship of the Ring,J.R.R. Tolkien
+0,0095,The Return of the Native,Thomas Hardy
+0,0096,Sons and Lovers,D.H. Lawrence
+1,0097,Charlotte's Web,E.B. White
+1,0098,The Swiss Family Robinson,Johann David Wyss
+1,0099,Bleak House,Charles Dickens
+1,0100,Père Goriot,Honoré de Balzac
+1,0101,Utopia,Thomas More
+1,0102,"The History of Tom Jones, a Foundling",Henry Fielding
+1,0103,Harry Potter and the Prisoner of Azkaban,J.K. Rowling
+1,0104,Kim,Rudyard Kipling
+1,0105,The Sound and the Fury,William Faulkner
+0,0106,Harry Potter and the Goblet of Fire,J.K. Rowling
+1,0107,The Mill on the Floss,George Eliot
+1,0108,A Wrinkle in Time,Madeleine L'Engle
+0,0109,The Hound of the Baskervilles,Arthur Conan Doyle
+1,0110,The Two Towers,J.R.R. Tolkien
+1,0111,The War of the Worlds,H.G. Wells
+1,0112,Middlemarch,George Eliot
+1,0113,The Age of Innocence,Edith Wharton
+0,0114,The Color Purple,Alice Walker
+0,0115,Northanger Abbey,Jane Austen
+0,0116,East of Eden,John Steinbeck
+1,0117,On the Road,Jack Kerouac
+1,0118,Catch-22,Joseph Heller
+1,0119,Around the World in Eighty Days,Jules Verne
+1,0120,Hard Times,Charles Dickens
+1,0121,Beloved,Toni Morrison
+1,0122,Mrs. Dalloway,Virginia Woolf
+1,0123,To the Lighthouse,Virginia Woolf
+1,0124,The Magician's Nephew,C.S. Lewis
+1,0125,Harry Potter and the Order of the Phoenix,J.K. Rowling
+0,0126,The Sun Also Rises,Ernest Hemingway
+1,0127,The Good Earth,Pearl S. Buck
+1,0128,Silas Marner,George Eliot
+0,0129,Love in the Time of Cholera,Gabriel García Márquez
+1,0130,Rebecca,Daphne Du Maurier
+1,0131,Jude the Obscure,Thomas Hardy
+1,0132,Twilight,Stephenie Meyer
+1,0133,A Passage to India,E.M. Forster
+0,0134,The Plague,Albert Camus
+0,0135,Nicholas Nickleby,Charles Dickens
+0,0136,The Pearl,John Steinbeck
+1,0137,Ethan Frome,Edith Wharton
+1,0138,The Tale of Genji,Murasaki Shikibu
+1,0139,The Giver,Lois Lowry
+1,0140,The Alchemist,Paulo Coelho
+1,0141,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson
+1,0142,Robinson Crusoe,Daniel Defoe
+1,0143,Tender is the Night,F. Scott Fitzgerald
+1,0144,The Idiot,Fyodor Dostoyevsky
+1,0145,Hatchet,Gary Paulsen
+0,0146,The Kite Runner,Khaled Hosseini
+1,0147,One Flew Over the Cuckoo's Nest,Ken Kesey
+1,0148,The Portrait of a Lady,Henry James
+0,0149,The Outsiders,S.E. Hinton
+1,0150,Ben-Hur,Lew Wallace
+1,0151,The Mayor of Casterbridge,Thomas Hardy
+1,0152,"Cry, The Beloved Country",Alan Paton
+1,0153,The Last Battle,C.S. Lewis
+0,0154,Captains Courageous,Rudyard Kipling
+0,0155,The Castle,Franz Kafka
+0,0156,The Metamorphosis,Franz Kafka
+1,0157,The Magic Mountain (Der Zauberberg),Thomas Mann
+1,0158,James and the Giant Peach,Roald Dahl
+1,0159,The Horse and His Boy,C.S. Lewis
+1,0160,Angels & Demons,Dan Brown
+1,0161,The Voyage of the Dawn Treader,C.S. Lewis
+1,0162,The Bell Jar,Sylvia Plath
+1,0163,Women in Love,D.H. Lawrence
+1,0164,The Yearling,Marjorie Kinnan Rawlings
+1,0165,O Pioneers!,Willa Cather
+0,0166,The Handmaid's Tale,Margaret Atwood
+1,0167,The Moonstone,Wilkie Collins
+1,0168,The Old Curiosity Shop,Charles Dickens
+0,0169,Little Dorrit,Charles Dickens
+1,0170,Prince Caspian: The Return to Narnia,C.S. Lewis
+1,0171,Sister Carrie,Theodore Dreiser
+1,0172,The Silver Chair,C.S. Lewis
+1,0173,The Hunger Games,Suzanne Collins
+0,0174,This Side of Paradise,F. Scott Fitzgerald
+0,0175,Eugénie Grandet,Honoré de Balzac
+0,0176,Of Human Bondage,W. Somerset Maugham
+1,0177,Dream of the Red Chamber,Cao Xueqin
+1,0178,Life of Pi,Yann Martel
+1,0179,Harry Potter and the Deathly Hallows,J.K. Rowling
+1,0180,Invisible Man,Ralph Ellison
+1,0181,Steppenwolf,Hermann Hesse
+1,0182,The Sorrows of Young Werther,Johann Wolfgang von Goethe
+1,0183,Bridge to Terabithia,Katherine Paterson
+1,0184,The Invisible Man,H.G. Wells
+1,0185,Holes,Louis Sachar
+0,0186,Siddhartha,Hermann Hesse
+1,0187,A Tree Grows in Brooklyn,Betty Smith
+1,0188,"Through the Looking-Glass, and What Alice Found There",Lewis Carroll
+0,0189,In Cold Blood,Truman Capote
+1,0190,The House of the Spirits,Isabel Allende
+1,0191,Adam Bede,George Eliot
+1,0192,The Betrothed,Alessandro Manzoni
+1,0193,The Book Thief,Markus Zusak
+0,0194,Their Eyes Were Watching God,Zora Neale Hurston
+0,0195,One Day in the Life of Ivan Denisovich,Aleksandr Isaevich Solzhenitsyn
+0,0196,The Sea Wolf,Jack London
+1,0197,Catching Fire,Suzanne Collins
+1,0198,"Roll of Thunder, Hear My Cry",Mildred D. Taylor
+1,0199,Death Comes for the Archbishop,Willa Cather
+1,0200,The House of Mirth,Edith Wharton
+1,0201,Light in August,William Faulkner
+1,0202,The Pickwick Papers,Charles Dickens
+1,0203,Remembrance of Things Past,Marcel Proust
+1,0204,Barchester Towers and the Warden,Anthony Trollope
+1,0205,The Bridge of San Luis Rey,Thornton Wilder
+0,0206,The Help,Kathryn Stockett
+1,0207,Murder on the Orient Express,Agatha Christie
+1,0208,The Lovely Bones,Alice Sebold
+0,0209,The Appeal,John Grisham
+1,0210,Dombey And Son,Charles Dickens
+1,0211,Slaughterhouse-Five,Kurt Vonnegut
+1,0212,An American Tragedy,Theodore Dreiser
+1,0213,The Bluest Eye,Toni Morrison
+0,0214,Little House In the Big Woods,Laura Ingalls Wilder
+0,0215,Pippi Longstocking,Astrid Lindgren
+0,0216,Germinal,Émile Zola
+1,0217,The Heart Is a Lonely Hunter,Carson McCullers
+1,0218,The Woman In White,Wilkie Collins
+1,0219,"Absalom, Absalom!",William Faulkner
+1,0220,A Painted House,John Grisham
+1,0221,The Girl With the Dragon Tattoo,Stieg Larsson
+1,0222,A Room With a View,E.M. Forster
+1,0223,Watership Down,Richard Adams
+1,0224,Memoirs of a Geisha,Arthur Golden
+1,0225,Our Mutual Friend,Charles Dickens
+0,0226,Babbitt,Sinclair Lewis
+1,0227,The Red Pony,John Steinbeck
+1,0228,All the King's Men,Robert Penn Warren
+0,0229,Things Fall Apart,Chinua Achebe
+1,0230,Lorna Doone,R.D. Blackmore
+1,0231,Johnny Tremain,Esther Forbes
+1,0232,Anne of Avonlea,L.M. Montgomery
+1,0233,Tuck Everlasting,Natalie Babbitt
+0,0234,The BFG,Roald Dahl
+0,0235,Cannery Row,John Steinbeck
+0,0236,The Joy Luck Club,Amy Tan
+1,0237,The Silmarillion,J.R.R. Tolkien
+1,0238,Roots,Alex Haley
+1,0239,Little House on the Prairie,Laura Ingalls Wilder
+1,0240,Native Son,Richard Wright
+1,0241,Stuart Little,E.B. White
+1,0242,Cross Fire,James Patterson
+1,0243,The Power and the Glory,Graham Greene
+1,0244,A Clockwork Orange,Anthony Burgess
+1,0245,The Phantom of the Opera,Gaston Leroux
+0,0246,The Martian Chronicles,Ray Bradbury
+1,0247,The Road,Cormac McCarthy
+1,0248,The Way of All Flesh,Samuel Butler
+0,0249,Diary of a Wimpy Kid: The Long Haul,Jeff Kinney
+1,0250,Villette,Charlotte Brontë
+1,0251,The Curious Incident of the Dog In the Night-Time,Mark Haddon
+1,0252,The Mysterious Island,Jules Verne
+1,0253,Song of Solomon,Toni Morrison
+0,0254,Nana,Émile Zola
+0,0255,Quo Vadis,Henryk Sienkiewicz
+0,0256,Main Street,Sinclair Lewis
+1,0257,Matilda,Roald Dahl
+1,0258,Lolita,Vladimir Vladimirovich Nabokov
+1,0259,Paper Towns,John Green
+1,0260,Sounder,William H. Armstrong
+1,0261,"Are You There God? It's Me, Margaret",Judy Blume
+1,0262,The Notebook,Nicholas Sparks
+1,0263,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg
+1,0264,Atlas Shrugged,Ayn Rand
+1,0265,The Fountainhead,Ayn Rand
+0,0266,Number the Stars,Lois Lowry
+1,0267,The Firm,John Grisham
+1,0268,Swann's Way,Marcel Proust
+0,0269,Ender's Game,Orson Scott Card
+1,0270,The Name of the Rose,Umberto Eco
+1,0271,A Time to Kill,John Grisham
+1,0272,Water for Elephants,Sara Gruen
+1,0273,The Time Machine,H.G. Wells
+0,0274,Eragon,Christopher Paolini
+0,0275,The Hitchhiker's Guide to the Galaxy,Douglas Adams
+0,0276,Buddenbrooks,Thomas Mann
+1,0277,A Thousand Splendid Suns,Khaled Hosseini
+1,0278,The Witch of Blackbird Pond,Elizabeth George Speare
+1,0279,And Then There Were None,Agatha Christie
+1,0280,A Separate Peace,John Knowles
+1,0281,Breaking Dawn,Stephenie Meyer
+1,0282,As I Lay Dying,William Faulkner
+1,0283,The Girl Who Played With Fire,Stieg Larsson
+1,0284,Where the Red Fern Grows,Wilson Rawls
+1,0285,Le Morte D'Arthur,Thomas Malory
+0,0286,Mockingjay,Suzanne Collins
+1,0287,The Pillars of the Earth,Ken Follett
+1,0288,Persian Letters,Montesquieu
+0,0289,The Client,John Grisham
+1,0290,Sula,Toni Morrison
+1,0291,Tales of a Fourth Grade Nothing,Judy Blume
+1,0292,The Merry Adventures of Robin Hood of Great Renown In Nottinghamshire,Howard Pyle
+1,0293,Tortilla Flat,John Steinbeck
+0,0294,"Look Homeward, Angel",Thomas Wolfe
+0,0295,The Mystery of Edwin Drood,Charles Dickens
+0,0296,Brideshead Revisited,Evelyn Waugh
+1,0297,The Pelican Brief,John Grisham
+1,0298,Atonement,Ian McEwan
+1,0299,Washington Square,Henry James
+1,0300,Like Water for Chocolate,Laura Esquivel
+1,0301,The Golden Compass,Philip Pullman
+1,0302,The Secret Life of Bees,Sue Monk Kidd
+1,0303,The Fault In Our Stars,John Green
+1,0304,Nostromo,Joseph Conrad
+1,0305,Finnegans Wake,James Joyce
+0,0306,The Brethren,John Grisham
+1,0307,Coraline,Neil Gaiman
+1,0308,Heart of Darkness,Joseph Conrad
+0,0309,On the Banks of Plum Creek,Laura Ingalls Wilder
+1,0310,Rebecca of Sunnybrook Farm,Kate Douglas Smith Wiggin
+1,0311,The Ambassadors,Henry James
+1,0312,The Secret Agent,Joseph Conrad
+1,0313,The House on Mango Street,Sandra Cisneros
+0,0314,Go Tell It on the Mountain,James Baldwin
+0,0315,The Testament,John Grisham
+0,0316,The Clan of the Cave Bear,Jean M. Auel
+1,0317,Cranford,Elizabeth Cleghorn Gaskell
+1,0318,Because of Winn-Dixie,Kate DiCamillo
+1,0319,My Side of the Mountain,Jean Craighead George
+1,0320,The Runaway Jury,John Grisham
+1,0321,The Mouse and the Motorcycle,Beverly Cleary
+1,0322,The Lost Symbol,Dan Brown
+1,0323,The Forsyte Saga,John Galsworthy
+1,0324,Gone Girl,Gillian Flynn
+1,0325,The Lightning Thief,Rick Riordan
+0,0326,The Last Days of Pompeii,Edward Bulwer Lytton
+1,0327,The Reader,Bernhard Schlink
+1,0328,Caddie Woodlawn,Carol Ryrie Brink
+0,0329,The Tale of Despereaux,Kate DiCamillo
+1,0330,The Girl Who Kicked the Hornet's Nest,Stieg Larsson
+1,0331,Dear Mr. Henshaw,Beverly Cleary
+1,0332,The Killer Angels,Michael Shaara
+1,0333,Chronicle of a Death Foretold,Gabriel García Márquez
+0,0334,The Five People You Meet In Heaven,Mitch Albom
+0,0335,The Master and Margarita,Mikhail Bulgakov
+0,0336,"Winesburg, Ohio",Sherwood Anderson
+1,0337,"""P"" Is for Peril",Sue Grafton
+1,0338,My Sister's Keeper,Jodi Picoult
+1,0339,Barnaby Rudge,Charles Dickens
+1,0340,Howards End,E.M. Forster
+1,0341,The Broker,John Grisham
+1,0342,The Camel Club,David Baldacci
+1,0343,The Rainbow,D.H. Lawrence
+1,0344,The Man In the Iron Mask,Alexandre Dumas
+1,0345,Mary Poppins,P.L. Travers
+0,0346,Artemis Fowl,Eoin Colfer
+1,0347,Dear John,Nicholas Sparks
+1,0348,Cold Mountain,Charles Frazier
+0,0349,Flowers for Algernon,Daniel Keyes
+1,0350,The Dark Is Rising,Susan Cooper
+1,0351,Resurrection,Leo Tolstoy
+1,0352,Fearless Fourteen,Janet Evanovich
+1,0353,A Sentimental Journey Through France and Italy,Laurence Sterne
+0,0354,The King of Torts,John Grisham
+0,0355,The Graveyard Book,Neil Gaiman
+0,0356,The Quiet American,Graham Greene
+1,0357,The Chamber,John Grisham
+1,0358,The English Patient,Michael Ondaatje
+1,0359,Snow Falling on Cedars,David Guterson
+1,0360,The Long Winter,Laura Ingalls Wilder
+1,0361,"Sarah, Plain and Tall",Patricia MacLachlan
+1,0362,Cross Country,James Patterson
+1,0363,The Spy Who Came In from the Cold,John Le Carré
+1,0364,A Game of Thrones,George R.R. Martin
+1,0365,The Thorn Birds,Colleen McCullough
+0,0366,Old Yeller,Fred Gipson
+1,0367,"Ramona Quimby, Age 8",Beverly Cleary
+1,0368,Death In Venice,Thomas Mann
+0,0369,By the Shores of Silver Lake,Laura Ingalls Wilder
+1,0370,Inferno,Dan Brown
+1,0371,Schindler's List,Thomas Keneally
+1,0372,Jonathan Livingston Seagull,Richard Bach
+1,0373,The Stand,Stephen King
+0,0374,The Last Juror,John Grisham
+0,0375,Shiloh,Phyllis Reynolds Naylor
+0,0376,Girl With a Pearl Earring,Tracy Chevalier
+1,0377,The Murder of Roger Ackroyd,Agatha Christie
+1,0378,It,Stephen King
+1,0379,The Rainmaker,John Grisham
+1,0380,The Poisonwood Bible,Barbara Kingsolver
+1,0381,The Indian in the Cupboard,Lynne Reid Banks
+1,0382,The Maltese Falcon,Dashiell Hammett
+1,0383,The Warden,Anthony Trollope
+1,0384,The Summons,John Grisham
+1,0385,Encyclopedia Brown: Boy Detective,Donald J. Sobol
+0,0386,The Time Traveler's Wife,Audrey Niffenegger
+1,0387,The Incredible Journey,Sheila Burnford
+1,0388,Daughter of Fortune,Isabel Allende
+0,0389,Shirley,Charlotte Brontë
+1,0390,"Bud, Not Buddy",Christopher Paul Curtis
+1,0391,The Horse Whisperer,Nicholas Evans
+1,0392,The Street Lawyer,John Grisham
+1,0393,Nausea,Jean-Paul Sartre
+0,0394,To Have and Have Not,Ernest Hemingway
+0,0395,The Bridges of Madison County,Robert James Waller
+0,0396,Anne of the Island,L.M. Montgomery
+1,0397,The Winter of Our Discontent,John Steinbeck
+1,0398,The Shining,Stephen King
+1,0399,The Tenant of Wildfell Hall,Anne Brontë
+1,0400,First Family,David Baldacci
+1,0401,The Partner,John Grisham
+1,0402,The Girl on the Train,Paula Hawkins
+1,0403,The Black Arrow: A Tale of the Two Roses,Robert Louis Stevenson
+1,0404,The Rise of Silas Lapham,William Dea Howells
+1,0405,The Choice,Nicholas Sparks
+0,0406,The Virginian: A Horseman of the Plains,Owen Wister
+1,0407,A Walk to Remember,Nicholas Sparks
+1,0408,The Maze Runner,James Dashner
+0,0409,The Westing Game,Ellen Raskin
+1,0410,Misty of Chincoteague,Marguerite Henry
+1,0411,Diary of a Wimpy Kid: The Last Straw,Jeff Kinney
+1,0412,King Solomon's Mines,H. Rider Haggard
+1,0413,The Princess of Cleves,Madame de (Marie-Madeleine Pioche de La Vergne) La Fayett
+0,0414,Jacob Have I Loved,Katherine Paterson
+0,0415,Mrs. Frisby and the Rats of NIMH,Robert C. O'Brien
+0,0416,Misery,Stephen King
+1,0417,The Cider House Rules,John Irving
+1,0418,King of the Wind,Marguerite Henry
+1,0419,The Once and Future King,T. H. White
+1,0420,The Witches,Roald Dahl
+1,0421,The Subtle Knife,Philip Pullman
+1,0422,When You Reach Me,Rebecca Stead
+1,0423,Carrie,Stephen King
+1,0424,The Moon and Sixpence,W. Somerset Maugham
+1,0425,The Higher Power of Lucky,Susan Patron
+0,0426,"Looking Backward, 2000-1887",Edward Bellamy
+1,0427,The Wings of the Dove,Henry James
+1,0428,The Summer of the Swans,Betsy Cromer Byars
+0,0429,Dangerous Liaisons,Choderlos de Laclos
+1,0430,Jurassic Park,Michael Crichton
+1,0431,The Absolutely True Diary of a Part-time Indian,Sherman Alexie
+1,0432,The Grey King,Susan Cooper
+1,0433,The Leopard,Giuseppe Tomasi di Lampedusa
+0,0434,The Mammoth Hunters,Jean M. Auel
+0,0435,The Trumpet of the Swan,E.B. White
+0,0436,The Lucky One,Nicholas Sparks
+1,0437,These Happy Golden Years,Laura Ingalls Wilder
+1,0438,Arrowsmith,Sinclair Lewis
+1,0439,Julie of the Wolves,Jean Craighead George
+1,0440,The Screwtape Letters,C.S. Lewis
+1,0441,The Fall,Albert Camus
+1,0442,The No. 1 Ladies' Detective Agency,Alexander McCall Smith
+1,0443,Worst Case,James Patterson
+1,0444,Lost Horizon,James Hilton
+1,0445,The Gunslinger,Stephen King
+0,0446,The Slave Dancer,Paula Fox
+1,0447,Harry Potter and the Half-Blood Prince,J.K. Rowling
+1,0448,Inkheart,Cornelia Funke
+0,0449,Ramona and her Father,Beverly Cleary
+1,0450,Inkspell,Cornelia Funke
+1,0451,Ramona the Pest,Beverly Cleary
+1,0452,Walk Two Moons,Sharon Creech
+1,0453,Miss Peregrine's Home for Peculiar Children,Ransom Riggs
+0,0454,The Chocolate War,Robert Cormier
+0,0455,Sophie's Choice,William Styron
+0,0456,Looking for Alaska,John Green
+1,0457,Breakfast at Tiffany's,Truman Capote
+1,0458,The Razor's Edge,W. Somerset Maugham
+1,0459,Dreamcatcher,Stephen King
+1,0460,Orlando,Virginia Woolf
+1,0461,The Things they Carried,Tim O'Brien
+1,0462,Little Town on the Prairie,Laura Ingalls Wilder
+1,0463,Nights in Rodanthe,Nicholas Sparks
+1,0464,The Amber Spyglass,Philip Pullman
+1,0465,The Miraculous Journey of Edward Tulane,Kate DiCamillo
+0,0466,Flatland,Edwin A. Abbott
+1,0467,Diary of a Wimpy Kid,Jeff Kinney
+1,0468,The Memory Keeper's Daughter,Kim Edwards
+0,0469,The Wedding,Nicholas Sparks
+1,0470,Fried Green Tomatoes at the Whistle-Stop Cafe,Fannie Flagg
+1,0471,The Cricket in Times Square,George Selden
+1,0472,The Phantom Tollbooth,Norton Juster
+1,0473,Rob Roy,Walter Scott
+0,0474,The Death of Ivan Ilych,Leo Tolstoy
+0,0475,Alex Cross's Trial,James Patterson
+0,0476,Kenilworth,Walter Scott
+1,0477,The Life and Opinions of Tristram Shandy,Laurence Sterne
+1,0478,The Remains of theDay,Kazuo Ishiguro
+1,0479,"M.C. Higgins, The Great",Virginia Hamilton
+1,0480,Call It Courage,Armstrong Sperry
+1,0481,Go Set a Watchman,Harper Lee
+0,0482,Bleachers,John Grisham
+1,0483,Elijah of Buxton,Christopher Paul Curtis
+0,0484,Swimsuit,James Patterson
+1,0485,Cat's Cradle,Kurt Vonnegut
+1,0486,The Caine Mutiny,Herman Wouk
+0,0487,The Heart of the Matter,Graham Greene
+0,0488,"Harriet, the Spy",Louise Fitzhugh
+1,0489,Darkness at Noon,Arthur Koestler
+1,0490,A Prayer for Owen Meany,John Irving
+1,0491,The God of Small Things,Arundhati Roy
+1,0492,The Associate,John Grisham
+1,0493,The Shack,William P. Young
+1,0494,The Naked and the Dead,Norman Mailer
+1,0495,The Sea of Monsters,Rick Riordan
+1,0496,Stranger in a Strange Land,Robert A. Heinlein
+1,0497,Vision in White,Nora Roberts
+0,0498,The Whipping Boy,Sid Fleischman
+1,0499,Room,Emma Donoghue
+1,0500,Deception Point,Dan Brown

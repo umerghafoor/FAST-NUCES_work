@@ -1,0 +1,25 @@
+# Use a base image
+FROM ubuntu:latest
+
+# Set working directory
+WORKDIR /app
+
+# Install build tools and libraries
+RUN apt-get update && apt-get install -y gcc
+
+# Copy shell scripts and C code into the container
+COPY process.sh process.sh
+COPY task2.sh task2.sh
+COPY safedelete.sh safedelete.sh
+COPY task4.sh task4.sh
+COPY main.sh main.sh
+COPY MinEdit.c MinEdit.c
+
+# Set executable permissions
+RUN chmod +x process.sh task2.sh safedelete.sh task4.sh main.sh
+
+# Compile the C code
+RUN gcc -o MinEdit MinEdit.c
+
+# Run the main script
+CMD ["./main.sh"]

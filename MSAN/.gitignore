@@ -1,5 +1,0 @@
-
-*.zip
-*.log
-Debug/MSAN.tlog/unsuccessfulbuild
-*.txt
