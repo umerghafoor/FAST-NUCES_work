@@ -1,0 +1,181 @@
+#include<iostream>
+using namespace std;
+
+    double adjm2[2][2],adjm[3][3];
+
+//_______________________________________________________________________________________________________Dispaly
+void show(int odr,double mat[3][3],double mat2[2][2])
+{
+    if(odr==3)
+    {
+    for(int i=0; i<odr;i++)
+            {
+                for(int j=0; j<odr;j++)
+                {
+                    cout<<"   "<<mat[i][j];
+                }
+                cout<<endl;
+            }
+    }
+    if(odr==2)
+    {
+    for(int i=0; i<odr;i++)
+            {
+                for(int j=0; j<odr;j++)
+                {
+                    cout<<"   "<<mat2[i][j];
+                }
+                cout<<endl;
+            }
+    }
+}
+//____________________________________________________________________________________________________________symetry
+
+void sym(int odr,double mat[3][3],double mat2[2][2])
+{
+bool x=1;
+    if(odr==3)
+    {
+    for(int i=0; i<odr;i++)
+            {
+                for(int j=0; j<odr;j++)
+                {
+                    if(mat[i][j]!=mat[j][i]){x=0;}
+                }
+            }
+    }
+    if(odr==2)
+    {
+    for(int i=0; i<odr;i++)
+            {
+                for(int j=0; j<odr;j++)
+                {
+                    if(mat2[i][j]!=mat2[j][i]){x=0;}
+                }
+            }
+    }
+
+    if(x){cout<<" Matrix is symytrical"<<endl;}
+    else {cout<<" Matrix is not symytrical"<<endl;}
+}
+//____________________________________________________________________________________________________________Identity
+
+void id(int odr,double mat[3][3],double mat2[2][2])
+{
+bool x=1;
+if(odr==3)
+{
+    for(int i=0; i<odr;i++)
+            {
+                    if(mat[i][i]!=1){x=0;}
+                    for(int j=0; j<odr;j++)
+                {
+                    if(i!=j){if(mat[i][j]!=0){x=0;}}
+                }
+            }
+}
+if(odr==2)
+{
+    for(int i=0; i<odr;i++)
+            {
+                    if(mat2[i][i]!=1){x=0;}
+                    for(int j=0; j<odr;j++)
+                {
+                    if(i!=j){if(mat2[i][j]!=0){x=0;}}
+                }
+            }
+}
+
+    if(x){cout<<" Matrix is 1"<<endl;}
+    else {cout<<" Matrix is 0"<<endl;}
+}
+//____________________________________________________________________________________________________________determinent
+double det(int odr,double mat[3][3],double mat2[2][2])
+{
+    int det;
+    int a1,a2,a3;
+    if(odr==2)
+    {
+        det=(mat2[0][0]*mat2[1][1])-(mat2[0][1]*mat2[1][0]);
+    }
+    if(odr==3)
+    {
+        det=mat[0][0]*((mat[1][1]*mat[2][2])-(mat[1][2]*mat[2][1]))
+        -mat[1][0]*((mat[0][1]*mat[2][2])-(mat[0][2]*mat[2][1]))
+        +mat[2][0]*((mat[0][1]*mat[1][2])-(mat[0][2]*mat[1][1]));
+    }
+    return det;
+}
+//_____________________________________________________________________________________________________________Adjoint
+void adj(int odr,double mat[3][3],double mat2[2][2])
+{
+    if(odr==3)
+    {
+                adjm[0][0]=(mat[1][1]*mat[2][2])-(mat[2][1]*mat[1][2]);
+                adjm[1][0]=-((mat[1][0]*mat[2][2])-(mat[2][0]*mat[1][2]));
+                adjm[2][0]=(mat[1][0]*mat[2][1])-(mat[2][0]*mat[1][1]);
+                adjm[0][1]=-((mat[0][1]*mat[2][2])-(mat[2][1]*mat[0][2]));
+                adjm[1][1]=(mat[0][0]*mat[2][2])-(mat[2][0]*mat[0][2]);
+                adjm[2][1]=-((mat[0][0]*mat[2][1])-(mat[2][0]*mat[0][1]));
+                adjm[0][2]=(mat[0][1]*mat[1][2])-(mat[1][1]*mat[0][2]);
+                adjm[1][2]=-((mat[0][0]*mat[1][2])-(mat[1][0]*mat[0][2]));
+                adjm[2][2]=(mat[0][0]*mat[1][1])-(mat[1][0]*mat[0][1]);
+    }
+    if(odr==2)
+    {
+        adjm2[0][0]=mat2[1][1];
+        adjm2[1][1]=mat2[0][0];
+        adjm2[0][1]=-mat2[0][1];
+        adjm2[1][0]=-mat2[1][0];
+    }
+}
+//____________________________________________________________________________________________________________main
+int main()
+{
+    int N, odr, *p;
+    cout<<"instructions will go here "<<endl;
+    cout<<"________________________________________________"<<endl;
+    cout<<"Enter the task "<<endl;
+    cin>>N;
+    cout<<"Enter the Order of matrix ";cin>>odr;
+//___________________________________________________________________________________________________________INPUT
+    double mat2[2][2];
+    double mat[3][3];
+    switch(odr)
+    {
+    case 3:
+            for(int i=0; i<3;i++)
+            {
+                cout<<"Row "<<i+1<<endl;
+                for(int j=0; j<3;j++)
+                {
+                    cout <<"Enter element "<<j+1<<" :";cin>>mat[i][j];
+                }
+            }
+            break;
+    case 2:
+            for(int i=0; i<2;i++)
+            {
+                cout<<"Row "<<i+1<<endl;
+                for(int j=0; j<2;j++)
+                {
+                    cout <<"Enter element "<<j<<" :";cin>>mat2[i][j];
+                }
+            }
+            break;
+    }
+    cout<<endl;
+//__________________________________________________________________________________________________________________
+
+    show(odr,mat,mat2);
+    sym(odr,mat,mat2);
+    id(odr,mat,mat2);
+    cout<<det(odr,mat,mat2)<<endl;
+    adj(odr,mat,mat2);
+        show(odr,adjm,adjm2);
+
+    switch(N)
+    {
+        case 1:break;
+    }
+}

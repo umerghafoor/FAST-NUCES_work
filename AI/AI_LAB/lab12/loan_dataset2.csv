@@ -1,0 +1,6 @@
+age,gender,occupation,education_level,marital_status,income,credit_score,loan_status
+32,Male,Engineer,Bachelor's,Married,85000,720,Approved
+28,Male,Student,High School,Single,25000,590,Denied
+51,Female,Manager,Bachelor's,Married,105000,780,Approved
+36,Male,Accountant,Bachelor's,Married,75000,710,Approved
+24,Female,Nurse,Associate's,Single,48000,640,Denied
