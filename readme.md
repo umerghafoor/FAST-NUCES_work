@@ -33,7 +33,7 @@ This repository contains my university projects and assignments in various progr
 
 - [Precision Farming Robot](https://github.com/umerghafoor/Precision-Farming-Robot)  
   🔧 ESP32, MQTT, Python, C++  
-  📚 **AI**, **Robotics**, **IoT**  
+  📚 **Robotics**
   Automates farming using a smart robot with video streaming and MQTT messaging.
 
 ---
@@ -42,17 +42,17 @@ This repository contains my university projects and assignments in various progr
 
 - [FlashMind – AI Learning App](https://github.com/umersanii/FlashMind-AI)  
   🔧 Next.js, Firebase, OpenRouter API, Clerk Auth  
-  📚 **AI**, **Software Engineering**  
+  📚 **Software Engineering**  
   AI-powered flashcard app with spaced repetition and memory techniques.
 
 - [Flex Trainer](https://github.com/umerghafoor/Flex-Trainer)  
   🔧 C#, .NET, SQL  
-  📚 **Database**, **Software Engineering**  
+  📚 **Database**  
   Gym trainer app to track clients, workouts, and performance.
 
 - [Hostel Management System](https://github.com/MoazSamee/HostelManagementSystem)  
   🔧 Java, JavaFX, MySQL  
-  📚 **SDA**, **Database**  
+  📚 **Software Design and Analysis**  
   System to manage hostel rooms, residents, and records.
 
 ---
@@ -85,17 +85,17 @@ This repository contains my university projects and assignments in various progr
 
 - [Open Inventory](https://github.com/umerghafoor/Open-Inventory)  
   🔧 C++, Qt  
-  📚 **OOP**, **Software Engineering**  
+  📚 **OOP**
   Desktop GUI system for inventory, vendors, sales, and tracking.
 
 - [Library Management System](https://github.com/umerghafoor/Library-Management-System)  
   🔧 C++  
-  📚 **OOP**, **Mini Project**  
+  📚 **Cpp Mini Project**  
   Console system for managing books and sales in a library.
 
 - [Matrix Calculator](https://github.com/umerghafoor/Matrix-Calculator)  
   🔧 C++  
-  📚 **OOP**, **PF**  
+  📚 **Programming Fundamentals**  
   CLI tool for matrix operations with user input support.
 
 ---
@@ -104,7 +104,7 @@ This repository contains my university projects and assignments in various progr
 
 - [Pacman in Assembly](https://github.com/umerghafoor/Pacman_in_Assembly)  
   🔧 x86 Assembly  
-  📚 **Assembly Language**  
+  📚 **Computer Organization and Assembly Language**  
   A basic Pacman game with Assembly-based graphics and input.
 
 ---
@@ -113,12 +113,12 @@ This repository contains my university projects and assignments in various progr
 
 - [InterPlanetary File System (DSA Project)](https://github.com/umerghafoor/InterPlanetaryFileSystem)  
   🔧 C++  
-  📚 **DSA**, **C++**, **OOP**  
+  📚 **Data Structures**,
   File system simulation using tree and graph data structures.
 
 - [Algorithm Analysis Project](https://github.com/umerghafoor/FAST-NUCES_work/tree/main/Algo%20project)  
   🔧 Python  
-  📚 **Algo Project**, **DSA**  
+  📚 **Design and Analysis of Algorithms**,
   Analysis and report-based project on sorting/searching algorithm efficiency.
 
 ---
@@ -127,7 +127,7 @@ This repository contains my university projects and assignments in various progr
 
 - [Pacman – OS Game Project](https://github.com/MoazSamee/Pacman)  
   🔧 C, SFML  
-  📚 **OS**, **Multithreading**, **C++**  
+  📚 **Operating Systems**
   Game designed to explore threads, concurrency, and process control.
 
 ---
