@@ -1,0 +1,9 @@
+Script Name,File Name,Execution Time (seconds)
+"./msa_serial","./BB11001-package.vie","157.763"
+"mpirun -np 8 ./msa_parallel","./BB11001-package.vie","110.483"
+"./msa_serial","./BB11002-package.vie","52.3796"
+"mpirun -np 8 ./msa_parallel","./BB11002-package.vie","37.8427"
+"./msa_serial","./BB11003-package.vie","5565.54"
+"mpirun -np 8 ./msa_parallel","./BB11003-package.vie","3534.86"
+"./msa_serial","./BB11004-package.vie","531.67"
+"mpirun -np 8 ./msa_parallel","./BB11004-package.vie","385.518"

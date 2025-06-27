@@ -1,0 +1,6 @@
+File Name,Serial Execution Time (seconds),Parallel Execution Time (seconds)
+"./BB11001-package.vie",157.763,110.483
+"./BB11002-package.vie",52.3796,37.8427
+"./BB11003-package.vie",5565.54,3534.86
+"./BB11004-package.vie",531.67,385.518
+
